@@ -1,0 +1,32 @@
+//     case 'bug':
+//       return require('../assets/types/bug_icon.png');
+//     case 'dark':
+//       return require('../assets/types/dark_icon.png');
+//     case 'dragon':
+//       return require('../assets/types/dragon_icon.png');
+//     case 'eletric':
+//       return require('../assets/types/eletric_icon.png');
+//     case 'fighting':
+//       return require('../assets/types/fighting_icon.png');
+//     case 'fairy':
+//       return require('../assets/types/fairy_icon.png');
+//     case 'flying':
+//       return require('../assets/types/flying_icon.png');
+//     case 'ghost':
+//       return require('../assets/types/ghost_icon.png');
+//     case 'ground':
+//       return require('../assets/types/ground_icon.png');
+//     case 'ice':
+//       return require('../assets/types/ice_icon.png');
+//     case 'normal':
+//       return require('../assets/types/normal_icon.png');
+//     case 'poison':
+//       return require('../assets/types/poison_icon.png');
+//     case 'psychic':
+//       return require('../assets/types/psychic_icon.png');
+//     case 'rock':
+//       return require('../assets/types/rock_icon.png');
+//     case 'steel':
+//       return require('../assets/types/steel_icon.png');
+
+

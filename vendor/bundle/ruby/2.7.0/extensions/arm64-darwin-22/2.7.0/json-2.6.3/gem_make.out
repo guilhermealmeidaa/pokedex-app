@@ -1,0 +1,13 @@
+current directory: /Users/guilherme.lima/FrontEnd/PokeApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/guilherme.lima/.rvm/rubies/ruby-2.7.5/bin/ruby -I /Users/guilherme.lima/.rvm/rubies/ruby-2.7.5/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /Users/guilherme.lima/FrontEnd/PokeApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230301-15601-1uhdtsf sitelibdir\=./.gem.20230301-15601-1uhdtsf clean
+
+current directory: /Users/guilherme.lima/FrontEnd/PokeApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230301-15601-1uhdtsf sitelibdir\=./.gem.20230301-15601-1uhdtsf
+make: Nothing to be done for `all'.
+
+current directory: /Users/guilherme.lima/FrontEnd/PokeApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230301-15601-1uhdtsf sitelibdir\=./.gem.20230301-15601-1uhdtsf install
